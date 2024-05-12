@@ -11,6 +11,10 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave: 
 <br>
 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/inserts/photo.jpg" width=420/></center>
+<br>
+
 I'm diving deep into the world of robotics as a Master of Science student in Mechatronics specializing in Robotics. My passion for robotics isn't just academic—it's hands-on, gritty, and fueled by a relentless drive to innovate.
 
 Building robots isn't just a hobby; it's been my mission throughout my academic and professional journey. From tinkering with hardware to coding complex algorithms, I've immersed myself in every aspect of robot creation. Whether it's navigating maze-like environments or fine-tuning control systems, I thrive on the challenges that robotics throw my way.
