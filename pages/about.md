@@ -12,7 +12,7 @@ Hi I am **{{ site.author.name }}** :wave:
 <br>
 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/inserts/photo.jpeg" width=420/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/photo.jpeg" width=420/></center>
 <br>
 
 I'm diving deep into the world of robotics as a Master of Science student in Mechatronics specializing in Robotics. My passion for robotics isn't just academic—it's hands-on, gritty, and fueled by a relentless drive to innovate.
