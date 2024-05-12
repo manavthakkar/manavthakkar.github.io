@@ -1,1 +1,0 @@
-# manavthakkar.github.io
