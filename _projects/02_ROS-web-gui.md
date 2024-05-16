@@ -1,7 +1,7 @@
 ---
 name: ROS Web GUI 
 tools: [ROS, GUI, Quadruped]
-image: https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png
+image: https://manavthakkar.github.io/assets/images/web-gui.png
 description: An app designed to help users track their squat exercises . It offers real-time feedback and voice notifications, making it a convenient tool for monitoring squat workouts.
 ---
 # Web-Based GUI Application for Controlling a ROS-Based Quadruped Robot
@@ -22,8 +22,6 @@ This project is a web-based GUI application designed to give users intuitive con
    - **Teleoperation Mode:** Take direct control of the robot’s movements with the directional buttons and joystick.
    - **Human-Following Mode:** Let the robot follow you! Using the MediaPipe library from Google, the robot detects human body landmarks and follows a point on the abdomen to move in sync with you.
 
-   ![ROS Web GUI](https://manavthakkar.github.io/assets/images/rectangle.jpg)
-
 3. **Technologies Behind the Scenes:**
    - **Frontend:** Built with HTML, CSS, and JavaScript for a responsive and engaging user experience.
    - **Backend:** Utilizes ROS and Rosbridge to handle communication between the GUI and the robot.
@@ -33,7 +31,7 @@ This project is a web-based GUI application designed to give users intuitive con
    - **Latency Issues:** We faced some latency problems due to the university’s Wi-Fi network, which affected real-time performance. As a workaround, we used a mobile hotspot to connect all systems on the same network, reducing lag and improving responsiveness.
 
 5. **Course Project Insight:**
-   - This project was part of a university course called Construction Robotics. We even wrote a paper about it, detailing our approach and findings. You can check it out [here](https://drive.google.com/file/d/1J3n438PW5EqMj7WWqf7FyHSNZ-YNkqSv/view?usp=drive_link).
+   - This project was part of a university course called Construction Robotics. We wrote a paper about it, detailing our approach and findings. You can check it out [here](https://drive.google.com/file/d/1J3n438PW5EqMj7WWqf7FyHSNZ-YNkqSv/view?usp=drive_link).
 
 ## Technical Details
 
@@ -48,6 +46,10 @@ This project is a web-based GUI application designed to give users intuitive con
 - **Human-Following Feature:**
   - Using Google’s MediaPipe library, the robot detects and tracks human body landmarks.
   - The robot follows a designated point on the abdomen, which directs its movement.
+
+  ![Control Logic](https://manavthakkar.github.io/assets/images/rectangle.jpg)
+
+  Github repository for this project can be found [here](https://github.com/manavthakkar/construction-robotics-TUHH).
 
 <p class="text-center">
 {% include elements/button.html link="https://www.linkedin.com/feed/update/urn:li:activity:7162078663511896064/" text="Learn More" %}
