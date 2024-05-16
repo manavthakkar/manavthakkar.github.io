@@ -2,7 +2,7 @@
 name: ROS Web GUI 
 tools: [ROS, GUI, Quadruped]
 image: https://manavthakkar.github.io/assets/images/web-gui.png
-description: An app designed to help users track their squat exercises . It offers real-time feedback and voice notifications, making it a convenient tool for monitoring squat workouts.
+description: An easy-to-use web interface for controlling a quadruped robot with real-time video streaming and a feature that lets the robot follow a person. It's designed to make interacting with the robot simple and intuitive, combining practical web tools with robotics.
 ---
 # Web-Based GUI Application for Controlling a ROS-Based Quadruped Robot
 
