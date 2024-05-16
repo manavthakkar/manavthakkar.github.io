@@ -70,8 +70,6 @@ Squat-O-Meter is a Python GUI application designed to help users track their squ
 - Incorporating more advanced data analysis features and machine learning algorithms to provide personalized workout recommendations.
 - Enhancing the user interface with more customization options and interactive features.
 
-This project showcases a robust and user-friendly application that leverages real-time data processing, customizable settings, and comprehensive data analysis to enhance the user's workout experience.
-
 Github repository for this project can be found [here](https://github.com/manavthakkar/squat-o-meter).
 
 
