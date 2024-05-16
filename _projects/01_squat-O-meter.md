@@ -4,10 +4,10 @@ tools: [Python, GUI, Signal Processing]
 image: https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png
 description: An app designed to help users track their squat exercises . It offers real-time feedback and voice notifications, making it a convenient tool for monitoring squat workouts.
 ---
-# Real-Time Squat Tracker GUI App
+# Squat-O-Meter: A Real-Time Squat Tracker GUI App
 
 ## Overview
-The Real-Time Squat Tracker is a Python GUI application designed to help users track their squat exercises in real time using their mobile phone's accelerometer data. Developed using Tkinter and ttkbootstrap for the graphical user interface, this application provides a comprehensive solution for fitness enthusiasts to monitor their workout progress, set goals, and analyze their performance over time.
+Squat-O-Meter is a Python GUI application designed to help users track their squat exercises in real time using their mobile phone's accelerometer data. Developed using Tkinter and ttkbootstrap for the graphical user interface, this application provides a comprehensive solution for fitness enthusiasts to monitor their workout progress, set goals, and analyze their performance over time.
 
 ![Squat-O-Meter Screenshot](https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png)
 
