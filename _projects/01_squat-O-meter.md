@@ -4,9 +4,12 @@ tools: [Python, GUI, Signal Processing]
 image: https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png
 description: An app designed to help users track their squat exercises . It offers real-time feedback and voice notifications, making it a convenient tool for monitoring squat workouts.
 ---
-# Squat-O-Meter: A Real-Time Squat Tracker GUI App
+# Squat-O-Meter 
+
+## A Real-Time Squat Tracker GUI App
 
 ## Overview
+
 Squat-O-Meter is a Python GUI application designed to help users track their squat exercises in real time using their mobile phone's accelerometer data. Developed using Tkinter and ttkbootstrap for the graphical user interface, this application provides a comprehensive solution for fitness enthusiasts to monitor their workout progress, set goals, and analyze their performance over time.
 
 ![Squat-O-Meter Screenshot](https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png)
@@ -52,7 +55,9 @@ Squat-O-Meter is a Python GUI application designed to help users track their squ
   - The "Analyze Data" tab enables users to plot and analyze their workout data, providing insights into their fitness progress.
 
 ## Challenges and Solutions
+
 - **False Detection Handling:**
+
   - Implemented user-adjustable parameters for acceleration threshold and time interval between squats to minimize false positives.
   - Allowed manual adjustment of squat count in the GUI to correct any miscounts.
 
@@ -60,11 +65,14 @@ Squat-O-Meter is a Python GUI application designed to help users track their squ
   - Utilized the Phyphox app for reliable local network data transmission, ensuring smooth integration with the user's mobile phone.
 
 ## Future Improvements
+
 - Adding support for additional exercises and extending the app’s capabilities to track different types of workouts.
 - Incorporating more advanced data analysis features and machine learning algorithms to provide personalized workout recommendations.
 - Enhancing the user interface with more customization options and interactive features.
 
 This project showcases a robust and user-friendly application that leverages real-time data processing, customizable settings, and comprehensive data analysis to enhance the user's workout experience.
+
+Github repository for this project can be found [here](https://github.com/manavthakkar/squat-o-meter).
 
 
 <p class="text-center">
