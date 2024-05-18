@@ -1,7 +1,7 @@
 ---
 name: ROS Web GUI 
 tools: [ROS, GUI, Quadruped]
-image: https://manavthakkar.github.io/assets/images/web-gui.png
+image: https://manavthakkar.github.io/assets/gifs/ROS-web-gui.gif
 description: An easy-to-use web interface for controlling a quadruped robot with real-time video streaming and a feature that lets the robot follow a person. It's designed to make interacting with the robot simple and intuitive, combining practical web tools with robotics.
 ---
 # Web-Based GUI Application for Controlling a ROS-Based Quadruped Robot
