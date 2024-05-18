@@ -1,7 +1,7 @@
 ---
 name: Squat-O-Meter
 tools: [Python, GUI, Signal Processing]
-image: https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png
+image: https://manavthakkar.github.io/assets/gifs/squat-o-meter.gif
 description: An app designed to help users track their squat exercises . It offers real-time feedback and voice notifications, making it a convenient tool for monitoring squat workouts.
 ---
 # Squat-O-Meter 
