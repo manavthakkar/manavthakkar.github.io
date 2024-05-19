@@ -23,6 +23,3 @@ Outside the lab, you'll find me brainstorming new ideas, sketching out designs, 
 
 So, buckle up and join me on this exciting ride through the world of mechatronics and robotics. Together, let's push the boundaries and redefine what's possible in this dynamic field!
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
