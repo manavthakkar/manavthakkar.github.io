@@ -7,7 +7,7 @@ description: Simulating a robotic surgery using a 7-axis Franka-Emika Panda robo
 # Image-Guided Robotic Needle Placement
 
 ## Overview
-The **Image-Guided Robotic Needle Placement** project was part of a course on robotics and navigation in medicine, aimed at understanding modern robotic surgeries. The main goal was to accurately detect the position of a tumor in a patient's body and take a sample by inserting a needle using a 7-axis Franka Emika robotic arm, ensuring minimal invasion.
+This project was part of a course on robotics and navigation in medicine, aimed at understanding modern robotic surgeries. The main goal was to accurately detect the position of a tumor in a patient's body and take a sample by inserting a needle using a 7-axis Franka Emika robotic arm, ensuring minimal invasion.
 
 ![Robotic Surgery](https://manavthakkar.github.io/assets/images/robotic-surgery.png)
 
