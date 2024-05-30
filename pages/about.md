@@ -15,11 +15,15 @@ Hi I am **{{ site.author.name }}** :wave:
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/photo.jpeg" width=420/></center>
 <br>
 
-I'm diving deep into the world of robotics as a Master of Science student in Mechatronics specializing in Robotics. My passion for robotics isn't just academic—it's hands-on, gritty, and fueled by a relentless drive to innovate.
+I am currently pursuing a Master of Science in Mechatronics at the Technische Universität Hamburg (TUHH). My passion lies in developing robotic systems that address real-world problems. My journey began with a foundation in mechanical engineering, where I discovered a fascination for computers and programming. This intersection of interests naturally led me to the field of robotics, where I can combine my skills in both areas.
 
-Building robots isn't just a hobby; it's been my mission throughout my academic and professional journey. From tinkering with hardware to coding complex algorithms, I've immersed myself in every aspect of robot creation. Whether it's navigating maze-like environments or fine-tuning control systems, I thrive on the challenges that robotics throw my way.
+Throughout my academic and professional journey, I have dedicated significant time to working with microcontrollers and programming. This experience has now expanded into developing software for intelligent systems. What started as a hobby has evolved into a deep-seated passion and career path.
 
-Outside the lab, you'll find me brainstorming new ideas, sketching out designs, or maybe even taking apart household gadgets to see how they tick.  I firmly believe that robotics and AI hold the potential to revolutionize our societies, and with each project I take on, I'm contributing to that transformative journey.
+I am always on the lookout for opportunities where my skills can intersect with creating value for others. In my free time, I enjoy working on personal projects that have the potential to make a positive impact. This drive to innovate and help others through technology is what motivates me every day.
 
-So, buckle up and join me on this exciting ride through the world of mechatronics and robotics. Together, let's push the boundaries and redefine what's possible in this dynamic field!
+
+
+
+
+
 
