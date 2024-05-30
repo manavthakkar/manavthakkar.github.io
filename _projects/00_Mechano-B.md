@@ -14,23 +14,23 @@ As part of a state-level robotics competition, my team and I developed Mechano-B
 
 ## My Role
 
-- **Sketching and 3D Modeling:** I started by sketching the robot’s design on paper, which I then transformed into a detailed 3D model using SolidWorks. This model guided the 3D printing process for the robot's construction.
-- **Programming:** I programmed the walking gait pattern, enabling the robot to mimic the movement of a four-legged animal. This involved solving the inverse kinematics for the walking gait pattern using SolidWorks motion analysis and implementing the control logic using Arduino.
+- **Sketching and 3D Modeling:** The process began with sketching the robot’s design on paper, which was then transformed into a detailed 3D model using SolidWorks. This model guided the 3D printing process for the robot’s construction.
+- **Programming:** I was responsible for programming the walking gait pattern, enabling the robot to mimic the movement of a four-legged animal. This task involved solving the inverse kinematics for the walking gait pattern using SolidWorks motion analysis and implementing the control logic using Arduino.
 
 ## Technical Details
 
 - **Degrees of Freedom:** Mechano-B has 12 degrees of freedom, with each leg equipped with three motors.
-- **Movement Capabilities:** The robot can perform various actions such as walking, turning, trotting, and even pushups.
+- **Movement Capabilities:** The robot can perform various actions such as walking, turning, trotting, and pushups.
 - **Control System:** The inverse kinematics were solved in SolidWorks and then programmed into the robot via Arduino to synchronize the 12 motors for stable walking motion.
 
 ## Challenges and Solutions
 
-One of the biggest challenges was figuring out the inverse kinematics and coordinating all 12 motors to achieve a stable walking motion. After many days of trial and error, we successfully made the robot walk seamlessly. Although we couldn't make it climb stairs, the experience was incredibly educational.
+One of the biggest challenges was figuring out the inverse kinematics and coordinating and calibrating all 12 motors to achieve a stable walking motion. After many days of trial and error, we successfully made the robot walk seamlessly. Although we couldn't make it climb stairs, the experience was incredibly educational.
 
 ## Achievements
 
 - **Recognition:** The project won first prize at the state-level competition and received state-level recognition along with a prize money of 500,000 INR.
-- **Public Display:** Mechano-B was selected for public display at a robotics museum, highlighting its appearance and functionality.
+- **Public Display:** Mechano-B was selected for public display at a robotics museum in Gujarat, India.
 
 ![Result](https://manavthakkar.github.io/assets/images/quadruped_result.jpg)
 
