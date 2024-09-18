@@ -1,5 +1,5 @@
 ---
-name: Mechano-B 
+name: Mechano-B
 tools: [Kinematics, CAD, 3D printing]
 image: https://manavthakkar.github.io/assets/gifs/mechano-b.gif
 description: A 12-degree-of-freedom quadruped robot, designed to emulate the movements of a four-legged animal, demonstrates walking, trotting, and turning capabilities. This robot is showcased at a robotics museum.
