@@ -8,6 +8,10 @@ description: Access the real-time game score on a display using the power of IoT
 
 This project showcases the integration of Internet of Things (IoT) technology with live sports data. Using an ESP32 microcontroller, the scoreboard continuously fetches cricket match data and displays it on an LCD screen.
 
+<p class="text-center">
+{% include elements/button.html link="https://www.linkedin.com/posts/manavt2000_iot-internetofthings-esp32-ugcPost-6792124845103583232-5Qhq/" text="Working video" %}
+</p>
+
 ## Features
 
 - **Real-Time Data Fetching**: The scoreboard fetches live data from the Cricbuzz website via a custom API made with ThingSpeak.
@@ -40,6 +44,3 @@ This project showcases the integration of Internet of Things (IoT) technology wi
 - Implement customizable alert systems for specific events or match situations.
 - Explore integration with other IoT devices for a comprehensive sports viewing experience.
 
-<p class="text-center">
-{% include elements/button.html link="https://www.linkedin.com/posts/manavt2000_iot-internetofthings-esp32-ugcPost-6792124845103583232-5Qhq/" text="Learn More" %}
-</p>

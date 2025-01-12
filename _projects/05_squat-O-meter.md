@@ -12,6 +12,10 @@ description: An app designed to help users track their squat exercises . It offe
 
 Squat-O-Meter is a Python GUI application designed to help users track their squat exercises in real time using their mobile phone's accelerometer data. Developed using Tkinter and ttkbootstrap for the graphical user interface, this application provides a comprehensive solution for fitness enthusiasts to monitor their workout progress, set goals, and analyze their performance over time.
 
+<p class="text-center">
+{% include elements/button.html link="https://www.linkedin.com/feed/update/urn:li:activity:7187826427742879745/" text="Working video" %}
+</p>
+
 ![Squat-O-Meter Screenshot](https://raw.githubusercontent.com/manavthakkar/squat-o-meter/main/screenshot.png)
 
 ## Key Features
@@ -71,8 +75,3 @@ Squat-O-Meter is a Python GUI application designed to help users track their squ
 - Enhancing the user interface with more customization options and interactive features.
 
 Github repository for this project can be found [here](https://github.com/manavthakkar/squat-o-meter).
-
-
-<p class="text-center">
-{% include elements/button.html link="https://www.linkedin.com/feed/update/urn:li:activity:7187826427742879745/" text="Learn More" %}
-</p>

@@ -12,6 +12,10 @@ As part of a state-level robotics competition, my team and I developed Mechano-B
 
 ![Mechano-B Quadruped robot](https://manavthakkar.github.io/assets/images/mechano-b.png)
 
+<p class="text-center">
+{% include elements/button.html link="https://www.youtube.com/watch?v=STtnWCDY_4Q" text="Working video" %}
+</p>
+
 ## My Role
 
 - **Sketching and 3D Modeling:** The process began with sketching the robot’s design on paper, which was then transformed into a detailed 3D model using SolidWorks. This model guided the 3D printing process for the robot’s construction.

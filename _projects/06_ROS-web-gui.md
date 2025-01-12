@@ -6,6 +6,12 @@ description: An easy-to-use web interface for controlling a quadruped robot with
 ---
 # Web-Based GUI Application for Controlling a ROS-Based Quadruped Robot
 
+<br>
+
+<p class="text-center">
+{% include elements/button.html link="https://www.linkedin.com/feed/update/urn:li:activity:7162078663511896064/" text="Working video" %}
+</p>
+
 ## Overview
 
 This project is a web-based GUI application designed to give users intuitive control over a quadruped robot. It features real-time video streaming from the robot’s camera and a human-following mode.
@@ -50,7 +56,3 @@ This project is a web-based GUI application designed to give users intuitive con
   ![Control Logic](https://manavthakkar.github.io/assets/images/rectangle.jpg)
 
   Github repository for this project can be found [here](https://github.com/manavthakkar/construction-robotics-TUHH).
-
-<p class="text-center">
-{% include elements/button.html link="https://www.linkedin.com/feed/update/urn:li:activity:7162078663511896064/" text="Learn More" %}
-</p>
