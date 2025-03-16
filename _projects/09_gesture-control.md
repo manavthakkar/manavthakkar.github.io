@@ -14,6 +14,8 @@ During an internship, I delved into computer vision, particularly intrigued by O
 
 ![Hand Gesture Control](https://manavthakkar.github.io/assets/images/hand-gesture-control.jpg)
 
+*Image source: 8th Wall / Arian Badri*
+
 ## Technology Stack
 
 - OpenCV

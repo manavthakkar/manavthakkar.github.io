@@ -16,6 +16,12 @@ The primary goal was to design a modular robot that could perform autonomous tas
 
 ![MoMo Robot](https://manavthakkar.github.io/assets/images/momo.jpeg)
 
+*Image source: ITL TUHH Social Media*
+
+<p class="text-center">
+{% include elements/button.html link="https://tore.tuhh.de/entities/publication/26e95c56-8320-42a0-91a5-01432206b62c" text="Checkout the published paper here" %}
+</p>
+
 ## Key Features 
 
 #### 1. **CAD Modeling and URDF Creation**
