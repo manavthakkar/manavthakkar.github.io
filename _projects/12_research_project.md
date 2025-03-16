@@ -9,7 +9,7 @@ description: Built a system for quadruped robots to navigate around obstacles us
 
 ## Overview
 
-This project focuses on integrating **2.5D elevation mapping** into the motion planning framework of quadruped robots to enhance their ability to traverse uneven terrains. Conducted under the guidance of [Aditya Tandon, M.Sc.](https://de.linkedin.com/in/tandon-aditya), this project was completed at the **Institute of Digital and Autonomous Construction (IDAC), Hamburg University of Technology**.
+This project focuses on integrating **[2.5D elevation mapping](https://github.com/ANYbotics/elevation_mapping)** into the motion planning framework of quadruped robots to enhance their ability to traverse uneven terrains. Conducted under the guidance of [Aditya Tandon, M.Sc.](https://de.linkedin.com/in/tandon-aditya), this project was completed at the **Institute of Digital and Autonomous Construction (IDAC), Hamburg University of Technology**.
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -57,8 +57,8 @@ The project utilized the **IDOG (Intelligent Documentation Gadget)** i.e. Unitre
 
 - **Programming Languages**: C++
 - **Robotics Middleware**: ROS Melodic/Noetic
-- **Mapping Framework**: elevation_mapping
-- **Costmap Integration**: costmap_2d
+- **Mapping Framework**: [elevation_mapping](https://github.com/ANYbotics/elevation_mapping)
+- **Costmap Integration**: [costmap_2d](http://wiki.ros.org/costmap_2d)
 - **Sensor Fusion**: Depth Camera (Intel RealSense D435i), LiDAR
 - **Visualization**: RViz
 - **Computing Units**: Jetson Xavier NX, Intel NUC
